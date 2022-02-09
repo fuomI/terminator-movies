@@ -1,0 +1,21 @@
+{
+  "name": "ws3",
+  "version": "1.0.0",
+  "description": "A sample Node.js app in Heroku",
+  "main": "index.js",
+  "engines": {
+    "node": "17.x"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "axios": "^0.21.1",
+    "request": "^2.88.2"
+  }
+}
